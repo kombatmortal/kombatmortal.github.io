@@ -1,0 +1,40 @@
+<DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <link rel="">
+        </head>
+        <body>
+            <header>
+                <div class="Head">
+                    <nav>
+                    </nav>
+                </div>
+            </header>
+            <main>
+                <div class="portada">
+                     <h1>t</h1>
+                     <p></p>
+                </div>
+                <div class="general">
+                     <h1>t</h1>
+                </div>
+                <div class="isla">
+                     <h1>t</h1>
+                </div>            
+                <div class="desafio">
+                     <h1>t</h1>
+                     <p></p>
+            </main>     
+            <footer>
+                <div class="foot">
+                     <div class="logo">
+                         <img src="">
+                     </div>
+                     <div class="info">
+                         <p> d </p>
+                     </div>
+                </div>
+            </footer>
+        </body>
+    </html>
