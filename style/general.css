@@ -1,1 +1,21 @@
-
+.header {
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    background-color: rgba(0,0,0,.75);
+    display: flex;
+    justify-content: flex-end;
+}
+.ul {
+    font-size: 21px;
+}
+.li {
+    display: inline-block;
+}
+.a  {
+    padding: 15px;
+    text-decoration: none;
+    color: goldenrod;
+    margin: 15px;
+}
