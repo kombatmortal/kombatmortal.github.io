@@ -19,3 +19,7 @@ a  {
     color: goldenrod;
     margin: 15px;
 }
+body {
+    line-height: 1em;
+    padding-top: 4em;
+}
