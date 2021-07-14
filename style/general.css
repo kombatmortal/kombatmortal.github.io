@@ -47,15 +47,17 @@ h5 {
     text-align: center;
     line-height: 1.5;
 }
-.notes {
-    text-align: left;
-    align-self: flex-start;
-}
 a.boton {
     display: inline-block;
-    font-size: .75rem;
+    margin: -10px;
 }
 img {
     width: 230px;
     margin: auto;
+}
+.adquirir {
+    padding: 36px;
+}
+.adquirir2 {
+    padding: 20px;
 }
