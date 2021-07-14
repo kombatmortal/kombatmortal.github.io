@@ -7,9 +7,6 @@ header {
     display: flex;
     justify-content: flex-end;
 }
-ul {
-    font-size: 21px;
-}
 li {
     display: inline-block;
 }
