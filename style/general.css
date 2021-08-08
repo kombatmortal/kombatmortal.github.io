@@ -152,7 +152,7 @@ footer {
 }
 
 /*------- INDEX --------*/
-.Portada {
+.portada {
     min-height: 600px;
     max-width: 1920px;
     background-image: url(../img/fondo4.jpg);
@@ -161,7 +161,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-.Portada img {
+.portada img {
     width: 700px;
     margin: 0 auto;
     display: block;
@@ -171,7 +171,7 @@ footer {
     background-color: rgb(0,0,0,.4);
 }
 
-.Portada h1 {
+.portada h1 {
     font-family: 'Vollkorn', serif;
     color: #fafafa;
     text-align: center;
@@ -204,7 +204,7 @@ footer {
     transition: all 1.5s ease;
 }
 
-.Juego {
+.juego {
     min-height: 600px;
     max-width: 1920px;
     border-top: 5px solid goldenrod;
@@ -217,7 +217,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-.Personajes {
+.personajes {
     min-height: 600px;
     max-width: 1920px;
     border-top: 5px solid goldenrod;
@@ -230,7 +230,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-.Historia {
+.historia {
     min-height: 600px;
     max-width: 1920px;
     border-top: 5px solid goldenrod;
@@ -243,7 +243,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-.Compra {
+.compra {
     min-height: 600px;
     max-width: 1920px;
     border-top: 5px solid goldenrod;
@@ -256,11 +256,11 @@ footer {
     background-repeat: no-repeat;
 }
 
-.Compra h2 {
+.compra h2 {
     margin-bottom: 0px;
 }
 
-.columns {
+.optContainer {
     width: 1120px;
     height: auto;
     display: flex;
@@ -269,7 +269,7 @@ footer {
     padding-top: 45px;
     padding-bottom: 50px;
 }
-.column1 {
+.option {
     width: 315px;
     height: auto;
     background-color: rgb(130 84 0 / 10%);
@@ -277,7 +277,7 @@ footer {
     transition: all 1.5s ease;
 }
 
-.column1 img {
+.option img {
     width: 177px;
     display: block;
     margin: 0 auto;
@@ -285,7 +285,7 @@ footer {
     padding-bottom: 30px;
 }
 
-.column1 p {
+.option p {
     color: #fafafa;
     font-family: 'Vollkorn', serif;
     font-weight: 700;
@@ -298,7 +298,7 @@ footer {
     box-shadow: 0px 0px 5px 2px goldenrod;
 }
 
-.notes {
+.optPerk {
     width: 215px;
     padding-top: 45px;
     padding-bottom: 25px;
@@ -306,11 +306,11 @@ footer {
 
 }
 
-.notes p {
+.optPerk p {
     font-size: 1em;
 }
 
-.notes ul {
+.optPerk ul {
     list-style-type: none;
     color: #fafafa;
     font-family: 'Vollkorn', serif;
@@ -318,7 +318,7 @@ footer {
     padding-top: 20px;
 }
 
-.columns a {
+.option a {
     margin: 0 auto;
     width: 155px;
     display: block;
@@ -326,17 +326,17 @@ footer {
     margin-bottom: 45px;
 }
 
-.columns a:hover, .description a:hover {
+.option a:hover, .description a:hover {
     background-color: #fafafa;
     color: darkgoldenrod;
     font-weight: 700;
 }
 
-.column2 img {
+.after img {
     padding-bottom: 20px;
 }
 
-.column2 .notes {
+.after .optPerk {
     padding-top: 25px;
 }
 
