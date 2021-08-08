@@ -285,7 +285,7 @@ footer {
     padding-bottom: 30px;
 }
 
-.option h5 {
+.option p {
     color: #fafafa;
     font-family: 'Vollkorn', serif;
     font-weight: 700;
@@ -306,7 +306,7 @@ footer {
 
 }
 
-.includes  {
+.optPerk p {
     font-size: 1em;
 }
 
