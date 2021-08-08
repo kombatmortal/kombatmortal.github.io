@@ -4,8 +4,10 @@ header {
     top: 0;
     position: fixed;
     background-color: rgba(0,0,0,.75);
-    display: flex;
     justify-content: flex-end;
+}
+header ul {
+    display: flex;
 }
 li {
     display: inline-block;
